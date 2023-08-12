@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi! Eu sou a Amanda. ☺️
+
+## 👋 Bem vindo ao meu GitHub 👋
 
 <!--
 **amandaey/amandaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
