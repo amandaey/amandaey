@@ -1,6 +1,14 @@
-### Oi! Eu sou a Amanda. ☺️
+### Olá! Eu sou a Amanda. 
 
-## 👋 Bem vindo ao meu GitHub 👋
+## 👋  Bem vindo ao meu prefil no GitHub. 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amandey)](https://github.com/amandey)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitetarget="_blank"link=https://www.gmail.com/user/amanda.yamasaki@usp.br)](https://www.gmail.com/user/amanda.yamasaki@usp.b)
+
+
+
+
+
 
 <!--
 **amandaey/amandaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
